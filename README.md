@@ -47,7 +47,7 @@ This data set dates from 1988 and consists of four databases: Cleveland, Hungary
 -  Seaborn
 
 
-# Video[https://youtu.be/tjJtK1uMybg]
+# [Video](https://youtu.be/tjJtK1uMybg)
 
 ![download](https://user-images.githubusercontent.com/102195933/194850171-e7da32cf-2440-468e-b85e-8b78a8cde2d0.jpg)
 
