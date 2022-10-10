@@ -41,10 +41,10 @@ This data set dates from 1988 and consists of four databases: Cleveland, Hungary
 
 
 # Required Packages 
- Pandas
- Numpy
- Matplotlib
- Seaborn
+-  Pandas
+-  Numpy
+-  Matplotlib
+-  Seaborn
 
 
 # Video
